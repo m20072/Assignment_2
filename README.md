@@ -43,12 +43,6 @@
 
 
 
-## Usage
-
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+## Developer info:
+* The scores are saved using the "SharedPreferences".
+* The location gathering and the map were done with the help of google maps services and location services.
