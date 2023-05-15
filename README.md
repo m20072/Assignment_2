@@ -27,7 +27,7 @@
     * Tilting on the y axis will change the speed of the game.
 
 * Top 10 scores list:
-    * Shows the top 10 scores of all times, saved on exist.
+    * Shows the top 10 scores of all times, saved on exit.
     * Clickable score list, clicking a score will adjust the map view to the corresponding score location.
     * Works with "RecyclerView" for optimized performance (as opposed to ListView for instance).
 
