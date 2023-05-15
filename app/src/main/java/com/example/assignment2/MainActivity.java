@@ -297,6 +297,8 @@ public class MainActivity extends AppCompatActivity
     private void endGame()
     {
         stopTimer();
+        if(sensors)
+            movementDetector.stop();
         ScoreScreen(gameManager.getScore());
     }
 
