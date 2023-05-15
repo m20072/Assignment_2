@@ -29,7 +29,7 @@
 * Top 10 scores list:
     * Shows the top 10 scores of all times, saved on exist.
     * Clickable score list, clicking a score will adjust the map view to the corresponding score location.
-    * Works with "RecyclerView" for optimized performance. (as opposed to ListView for instance)
+    * Works with "RecyclerView" for optimized performance (as opposed to ListView for instance).
 
 ## Adjusted features:
 * A wider road:
