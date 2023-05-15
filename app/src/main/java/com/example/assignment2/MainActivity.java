@@ -277,7 +277,8 @@ public class MainActivity extends AppCompatActivity
     {
         super.onPause();
         stopTimer();
-        movementDetector.stop();
+        if(sensors)
+            movementDetector.stop();
     }
 
     private void moveLeft()
