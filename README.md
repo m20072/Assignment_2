@@ -45,4 +45,4 @@
 
 ## Developer info:
 * The scores are saved using the "SharedPreferences".
-* The location gathering and the map were done with the help of google maps services and location services.
+* The location gathering and the map platform were implemented with the help of google maps services and google location services.
